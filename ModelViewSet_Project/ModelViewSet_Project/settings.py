@@ -87,7 +87,7 @@ WSGI_APPLICATION = 'ModelViewSet_Project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'nth_rest9amdb_modelviewset',
+        'NAME': 'modelviewset',
         'USER' : 'root',
         'PASSWORD' : 'root',
     }
